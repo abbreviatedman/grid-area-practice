@@ -12,4 +12,6 @@
 
 ### Guidelines
 
+* Only one grid container!
+* You MUST use `grid-template-areas` to lay out your children.
 * No flex or margins or padding!
