@@ -6,6 +6,7 @@
 * Make it look like this: ![desktop layout](./desktop.png)
 * Under a width of 800 pixels, make it look like this: ![tablet layout](./tablet.png)
 * Under a width of 400 pixels, make it look like this:
+
     ![mobile layout](./mobile.png)
 
 
