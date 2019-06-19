@@ -15,3 +15,7 @@
 * Only one grid container!
 * You MUST use `grid-template-areas` to lay out your children.
 * No flex or margins or padding!
+
+### Stretch Goals
+
+* Make a landscape mobile layout. It should look just like the tablet view, but the header and the menu should be on one row.
